@@ -27,7 +27,7 @@ I am a developer driven by mathematical precision and functional design. My work
 ### 🧮 GUI Arithmetic Processor
 *A desktop calculator built with Tkinter, focusing on event-driven programming and error handling.*
 * **Tech:** Python, Tkinter.
-* **Focus:** Mastering the "Model-View-Controller" (MVC) pattern in GUI development.
+* **Focus:** Mastering the "Model-View-Controller" (MVC) pattern in GUI development. 
 
 ---
 
