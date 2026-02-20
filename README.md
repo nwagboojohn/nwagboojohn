@@ -42,7 +42,7 @@ Beyond coding, I am deeply interested in:
 
 ## 📫 Let's Connect!
 
-- **LinkedIn:** linkedin.com/in/nwagboo-john-b2b0a1368/
+- **LinkedIn:** https://linkedin.com/in/nwagboo-john-b2b0a1368/
 - **Email:** nemejohn62@gmail.com
 - **Medium:** https://medium.com/@nwagboojohn
 
