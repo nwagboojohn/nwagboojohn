@@ -9,7 +9,6 @@ I am a developer driven by mathematical precision and functional design. My work
 ## 🛠️ Technical Stack
 
 | Category | Tools & Technologies |
-| :--- | :--- |
 | **Backend** | Python (Django), SQL |
 | **Frontend** | HTML5, CSS3, JavaScript (ES6+), Bootstrap |
 | **Math & ML** | Streamlit, NumPy, SymPy, Matplotlib |
