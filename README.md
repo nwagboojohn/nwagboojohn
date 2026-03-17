@@ -31,7 +31,7 @@ I am a developer driven by mathematical precision and functional design. My work
 
 ---
 
-## 🧠 Mathematical Core & Interests
+## 🧠 Mathematical Core & Interests 
 
 Beyond coding, I am deeply interested in:
 - **Computational Logic:** How discrete math informs algorithm design.
