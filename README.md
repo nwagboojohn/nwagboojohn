@@ -1,7 +1,7 @@
 # Hi there, I'm Nwagboo John 👋 
 
 ### 📐 Mathematics & Technology Student | Full-Stack Python Developer 
-
+ 
 I am a developer driven by mathematical precision and functional design. My work ranges from building scalable **Django** web applications to creating specialized tools that bridge the gap between **Human-Readable Math** and **LaTeX**.
 
 ---
