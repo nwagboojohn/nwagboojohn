@@ -1,4 +1,4 @@
-# Hi there, I'm Nwagboo John 👋 
+# Hi there, I'm Nwagboo John 👋  
 
 ### 📐 Mathematics & Technology Student | Full-Stack Python Developer  
 
